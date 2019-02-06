@@ -4,7 +4,7 @@
 
 Sadrzi video materijale
 
-## scproj.py <filename>
+## scproj.py filename
 
 Prima naziv video fajla kao argument, procesuira video i ispisuje konacnu sumu u konzoli
 
